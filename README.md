@@ -1,4 +1,9 @@
-# Projects
+# Vue Projects
+## Pet Store
+### [code](https://github.com/lnnhpmp/Pet-Store)
+### ![image](https://github.com/lnnhpmp/Pet-Store/blob/master/orangeTheme.png)
+
+# JS Projects
 ## Video Player 
 ### [code](https://github.com/lnnhpmp/Video_Player)
 ### [DEMO](https://lnnhpmp.github.io/Video_Player/videoPlayer.html)  
@@ -18,3 +23,5 @@
 ### [code](https://github.com/lnnhpmp/Clock)
 ### [DEMO](https://lnnhpmp.github.io/Clock/clock.html)  
 ### ![image](https://github.com/lnnhpmp/Clock/blob/master/clock.png)
+
+
